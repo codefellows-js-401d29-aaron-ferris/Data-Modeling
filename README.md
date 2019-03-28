@@ -3,28 +3,29 @@
 
 ## Data-Modeling
 
-### Author: Student/Group Name
+### Aaron Ferris
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [pull](https://github.com/codefellows-js-401d29-aaron-ferris/lab08/pull/1)
+* [travis](http://xyz.com) Not complete enough to even warrant a travis test
+
 
 #### Documentation
-* [swagger](http://xyz.com) (API assignments only)
-* [jsdoc](http://xyz.com) (All assignments)
+not implemented yet
 
 ### Modules
-#### `modulename.js`
+#### `catagoies.js`
 ##### Exported Values and Methods
 
-###### `foo(thing) -> string`
-Usage Notes or examples
+###### `get`
+input of id. Uses schema to retrieve information from created ata bas
+(not fully functional)
 
 ###### `bar(array) -> array`
 Usage Notes or examples
 
+
+due to incompletion, I will be leaving the information below
 ### Setup
 #### `.env` requirements
 * `PORT` - Port Number
@@ -38,9 +39,6 @@ Usage Notes or examples
   * Returns a JSON object with xyz in it.
   
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+THere are some on the post test making sure that worked
 
-#### UML
-Link to an image of the UML for your application and response to events
+I started working and jumped headlong into the work. I did my best to understand what I was doing, and when I got far in, I realized I did no testing. I tried to do testing, but nothing I had done had worked. After a long time of frustration with testing, I resolved to start again from scratch. Frustrated, I started to follow the video's instructions, however I didn't get that far. I needed to finish presentation, start submitting, andget sleep.
